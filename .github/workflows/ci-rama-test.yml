@@ -17,3 +17,11 @@ jobs:
         run: date
       - name: 'Muestra el contenido del directorio'
         run: ls -la
+      - name: 'Muestra la versión de Node.js'
+        run: node --version
+      - name: 'Muestra la versión de npm'
+        run: npm --version
+      - name: 'Muestra la versión de Python'
+        run: python --version
+      - name: 'Muestra la versión de pip'
+        run: pip --version
