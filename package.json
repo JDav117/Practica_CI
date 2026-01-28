@@ -1,0 +1,17 @@
+{
+  "name": "practica-ci",
+  "version": "1.0.0",
+  "description": "Aplicación simple para práctica de integración continua",
+  "main": "script.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "echo 'Abre index.html en tu navegador'"
+  },
+  "keywords": [
+    "ci",
+    "integración continua",
+    "test"
+  ],
+  "author": "",
+  "license": "MIT"
+}
